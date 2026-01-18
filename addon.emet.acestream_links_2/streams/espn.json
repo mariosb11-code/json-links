@@ -1,0 +1,8 @@
+[
+  {"id":"espn_1","type":"stream","name":"BT Sport / ESPN [UK](9.2 Mbps)","url":"acestream://fc5089d8e1519872fdf951779ccbca913acc9bce","poster":"assets/icon.png"},
+  {"id":"espn_2","type":"stream","name":"ESPN 2 [BE](3.5 Mbps)","url":"acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63","poster":"assets/icon.png"},
+  {"id":"espn_3","type":"stream","name":"ESPN 4 [BE](2.2 Mbps)","url":"acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a","poster":"assets/icon.png"},
+  {"id":"espn_4","type":"stream","name":"ESPN HD [US](5.5 Mbps)","url":"acestream://4b4907de51ec11087d4bed5876f2a0c68264f442","poster":"assets/icon.png"},
+  {"id":"espn_5","type":"stream","name":"ESPN [BE](3.8 Mbps)","url":"acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab","poster":"assets/icon.png"},
+  {"id":"espn_6","type":"stream","name":"ESPN2 [US](4.4 Mbps)","url":"acestream://664eb5fe460b96941aed633959a845b185cd8394","poster":"assets/icon.png"}
+]

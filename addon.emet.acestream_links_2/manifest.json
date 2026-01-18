@@ -1,0 +1,10 @@
+{
+  "id": "addon.emet.acestream_links_2",
+  "version": "1.0.0",
+  "name": "AceStream Links EMET",
+  "description": "Canales de TV mediante enlaces AceStream para EMET Surf",
+  "logo": "https://raw.githubusercontent.com/mariosb11-code/json-links/main/assets/icon.png",
+
+  "resources": ["stream"],
+  "types": ["tv"]
+}

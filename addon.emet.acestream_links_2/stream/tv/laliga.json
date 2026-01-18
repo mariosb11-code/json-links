@@ -1,0 +1,52 @@
+{
+  "streams": [
+    {
+      "title": "DAZN LaLiga (6.4 Mbps)",
+      "url": "acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a"
+    },
+    {
+      "title": "DAZN_LaLiga_FHD",
+      "url": "acestream://99171f30c83bf7ab5df28b39607c91334cc60e4b"
+    },
+    {
+      "title": "LaLiga Hypermotion 2 FHD (5.6 Mbps)",
+      "url": "acestream://18fb88987ad8b5cf3f6a677716e26206aee05d75"
+    },
+    {
+      "title": "M+ LaLiga FHD (5.6 Mbps)",
+      "url": "acestream://770efcdf77cf7c6abc42fb1c818df4978658ea32"
+    },
+    {
+      "title": "M. LaLiga (6.4 Mbps)",
+      "url": "acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38"
+    },
+    {
+      "title": "M. LaLiga 2 (6.4 Mbps)",
+      "url": "acestream://b8eb9c9868d487402569bba2d97a8af113d033fe"
+    },
+    {
+      "title": "M. LaLiga 3 (6.4 Mbps)",
+      "url": "acestream://571ce113b9d600a145766443d7417eccab2e1846"
+    },
+    {
+      "title": "M. LaLiga 4 (6.4 Mbps)",
+      "url": "acestream://22178d72e0f255dedd7e56f9474fea879289a6f1"
+    },
+    {
+      "title": "Movistar LaLiga (5.6 Mbps)",
+      "url": "acestream://3965fec90fb8370675889e7d2f0e78888652857f"
+    },
+    {
+      "title": "Movistar LaLiga → NEW ERA VI (5.6 Mbps)",
+      "url": "acestream://d2ddf9802ccfdc456f872eea4d24596880a638a0"
+    },
+    {
+      "title": "Movistar LaLiga → NEW ERA VI (5.6 Mbps)",
+      "url": "acestream://107c3ce5a5d2527c9f06e4eab87477201791f231"
+    },
+    {
+      "title": "Movistar LaLiga 2 → NEW ERA VI (5.6 Mbps)",
+      "url": "acestream://911ad127726234b97658498a8b790fdd7516541d"
+    }
+  ]
+}
